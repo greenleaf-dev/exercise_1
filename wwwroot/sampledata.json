@@ -1,0 +1,72 @@
+[
+  {
+    "FirstName": "John",
+    "LastName": "Smith",
+    "HiringDate": "2020-03-15",
+    "Department": "Engineering",
+    "JobTitle": "Senior Software Engineer"
+  },
+  {
+    "FirstName": "Sarah",
+    "LastName": "Johnson",
+    "HiringDate": "2021-06-20",
+    "Department": "Product",
+    "JobTitle": "Product Manager"
+  },
+  {
+    "FirstName": "Michael",
+    "LastName": "Brown",
+    "HiringDate": "2019-01-10",
+    "Department": "Engineering",
+    "JobTitle": "DevOps Engineer"
+  },
+  {
+    "FirstName": "Emily",
+    "LastName": "Davis",
+    "HiringDate": "2022-02-14",
+    "Department": "Design",
+    "JobTitle": "UX Designer"
+  },
+  {
+    "FirstName": "David",
+    "LastName": "Wilson",
+    "HiringDate": "2021-09-05",
+    "Department": "Sales",
+    "JobTitle": "Sales Executive"
+  },
+  {
+    "FirstName": "Jessica",
+    "LastName": "Martinez",
+    "HiringDate": "2020-11-22",
+    "Department": "Marketing",
+    "JobTitle": "Marketing Manager"
+  },
+  {
+    "FirstName": "Robert",
+    "LastName": "Garcia",
+    "HiringDate": "2018-07-30",
+    "Department": "Engineering",
+    "JobTitle": "Tech Lead"
+  },
+  {
+    "FirstName": "Amanda",
+    "LastName": "Rodriguez",
+    "HiringDate": "2022-04-18",
+    "Department": "Human Resources",
+    "JobTitle": "HR Specialist"
+  },
+  {
+    "FirstName": "Chris",
+    "LastName": "Lee",
+    "HiringDate": "2020-05-12",
+    "Department": "Finance",
+    "JobTitle": "Financial Analyst"
+  },
+  {
+    "FirstName": "Lisa",
+    "LastName": "Anderson",
+    "HiringDate": "2019-08-27",
+    "Department": "Engineering",
+    "JobTitle": "Software Engineer"
+  }
+]
