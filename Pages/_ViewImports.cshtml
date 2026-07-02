@@ -1,3 +1,15 @@
-﻿@using MTTApp
+﻿@* 
+    _ViewImports.cshtml
+    
+    This file contains directives that are imported into every Razor view in the Pages directory.
+    It allows us to use certain namespaces and tag helpers throughout all views without explicitly importing them.
+    
+    Directives:
+    - @using MTTApp                              - Makes the MTTApp namespace available in all views
+    - @namespace MTTApp.Pages                    - Sets the default namespace for all pages in this directory
+    - @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers - Enables all built-in ASP.NET Core tag helpers
+*@
+
+@using MTTApp
 @namespace MTTApp.Pages
 @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
